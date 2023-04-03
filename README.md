@@ -18,7 +18,7 @@ The purpose of this assignment is to create a React Single Page App over your de
         - Your GET /movies endpoint should sort by rating (server side)
             - Update your /movies (with reviews=true) endpoint to sort by average rating descending
     - Movie Detail screen, shows the Movie, Image, Actors that were in the movie, aggregated rating for the movie and grid that shows the reviews (username, rating, review)
-    - Extra Credit: Movie Search – show results in a grid, accordion or other list control
+    - Extra Credit: (7 points) - chapter 25 of (https://www.amazon.com/dp/B0979MGJ5J?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_M9YGPJNZWB3BK0P59QX3) Movie Search – show results in a grid, accordion or other list control
         - Add Search API (HTTP POST) to the API that can take partial movie names or partial actor names
 
 ## Submissions
